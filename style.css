@@ -1,5 +1,8 @@
-P {
-   color: rebeccapurple;
-   color: blue;
-   column-rule-color: black;
+head
+{
+    color: black;
+}
+title
+{
+    color: aquamarine;
 }
